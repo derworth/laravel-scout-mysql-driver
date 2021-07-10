@@ -1,5 +1,5 @@
 {
-    "name": "yab/laravel-scout-mysql-driver",
+    "name": "derworth/laravel-scout-mysql-driver",
     "description": "MySQL driver for Laravel Scout.",
     "license": "MIT",
     "authors": [
